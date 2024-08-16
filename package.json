@@ -1,0 +1,14 @@
+{
+  "name": "hk-project-cli",
+  "version": "1.0.5",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hk-project-cli": "bin/create-vue3-ts-app.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
